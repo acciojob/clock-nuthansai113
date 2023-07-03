@@ -1,5 +1,4 @@
-//your JS code here. If required.
-clock :-
+
 
 let p = document.getElementById("timer");
 let d = new Date();
